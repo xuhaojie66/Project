@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="web-demo03:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f61a3765-8778-4d75-b5fd-40c6f61cf723" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/Web-demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/out/production/Web-demo01/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/out/production/Web-demo01/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/out/production/Web-demo01/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/out/production/Web-demo01/com/xhj/webserver/Tomcat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/out/production/Web-demo01/com/xhj/webserver/TomcatMoni.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/src/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/src/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/src/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Web-demo01/src/com/xhj/webserver/TomcatMoni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/artifacts/web_demo02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/login.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/WEB-INF/classes/com/xhj/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/WEB-INF/classes/com/xhj/servlet/SignServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/out/artifacts/web_demo02_war_exploded/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/src/com/xhj/pojo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/src/com/xhj/servlet/SignServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web-demo02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/WEB-INF/classes/com/xhj/pojo/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/WEB-INF/classes/com/xhj/servlet/SignServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/WEB-INF/lib/jsp-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/WEB-INF/lib/servlet-api.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-demo02/web/sign.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/web_demo03_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/web_demo03_war_exploded/WEB-INF/classes/com/xhj/cookie/LastAccessTimeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/web_demo03_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/web_demo03_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/web-demo03/com/xhj/cookie/LastAccessTimeServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xhj/cookie/LastAccessTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-demo03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JavaLibrary\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local -Dmaven.multiModuleProjectDirectory=$MAVEN_HOME -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectId" id="1a4ndHLD4y3AfkjBsRTZFkF2q3J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.29" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.29" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <deployment>
+        <artifact name="web-demo03:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_29_web-demo03" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62750" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="web-demo03:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61a3765-8778-4d75-b5fd-40c6f61cf723" name="Default Changelist" comment="" />
+      <created>1586003818787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586003818787</updated>
+      <workItem from="1586003822630" duration="6602000" />
+      <workItem from="1586015795934" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
