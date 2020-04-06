@@ -12,5 +12,6 @@
   </head>
   <body>
   <a href="/cookie/lastTime">跳转至cookie访问界面</a>
+  <a href="login.jsp">跳转至登录界面</a>
   </body>
 </html>
