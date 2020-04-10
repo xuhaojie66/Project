@@ -1,4 +1,4 @@
-package com.xufeng.servlet;
+package com.xufeng.response;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -15,6 +15,7 @@ public class demo4Servlet extends HttpServlet {
     @Override
     protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html;charset=utf-8");
+        //1秒更新一次
         response.setHeader("Refresh","1");
         //获取当前系统时间
         SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd hh-mm-ss");

@@ -1,4 +1,4 @@
-package com.xufeng.servlet;
+package com.xufeng.response;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
