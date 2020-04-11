@@ -32,7 +32,7 @@ public class LastAccessTimeServlet extends HttpServlet {
             lastTime= new Cookie("lastTime",sdf.format(new Date()));
         }else{
             out.println("用户您好，您的上一次访问时间为["+lastTime.getValue()+"],感谢你的再次访问！");
-            lastTime= new Cookie("lastTime",sdf.format(new Date()));
+            lastTime.setValue(sdf.format(new Date()));
         }
         lastTime.setMaxAge(1*30*24*60*60);
         lastTime.setPath("/");

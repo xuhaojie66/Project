@@ -60,4 +60,15 @@ public class Product {
     public void setDesc(String desc) {
         this.desc = desc;
     }
+
+    @Override
+    public String toString() {
+        return "Product{" +
+                "id='" + id + '\'' +
+                ", name='" + name + '\'' +
+                ", imagePath='" + imagePath + '\'' +
+                ", price=" + price +
+                ", desc='" + desc + '\'' +
+                '}';
+    }
 }
