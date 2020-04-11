@@ -5,6 +5,7 @@ import com.xhj.domain.Product;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -34,6 +35,17 @@ public class ProductShowsCookieServlet extends HttpServlet {
         }
         out.println("</table>");
         out.println("</center>");
+
+        //获取所有Cookie
+        Cookie[] cookies = request.getCookies();
+        //进行遍历
+        for(int i=0;cookies!=null&&i<cookies.length;i++){
+            if("products".equals(cookies[i].getName())){
+                out.println("<br><br><hr><br>您浏览过的商品信息如下：<br>");
+                out.println("<h3><font color='red'>"+cookies[i].getValue()+"</font></h3>");
+                break;
+            }
+        }
     }
 }
 
