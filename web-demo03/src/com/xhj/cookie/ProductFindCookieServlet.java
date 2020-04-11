@@ -28,6 +28,7 @@ public class ProductFindCookieServlet extends HttpServlet {
             out.println("<img src='/images/"+p.getImagePath()+"'/><br>");
             out.println("商品编号："+p.getId()+"，商品名称："+p.getName()+"</br>");
             out.println("商品价格："+p.getPrice()+"，商品描述："+p.getDesc()+"</br>");
+            out.println("<br><a href='/session/addCart?pid="+p.getId()+"'><img src='/images/cart.png'/></a>");
 
             Cookie cookie =null;//用来记录浏览过商品信息的cookie
             Cookie[] cookies = request.getCookies();
