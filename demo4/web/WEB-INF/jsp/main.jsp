@@ -14,6 +14,7 @@
     <%
         String info=(String) request.getAttribute("info");
     %>
-    <a><%=info%></a>
+    <a ><%=info%></a>
+
 </body>
 </html>

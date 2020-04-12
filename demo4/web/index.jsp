@@ -44,5 +44,8 @@
     <tr><td><input type="submit" value="登陆"></td><td><input type="reset" value="重置"></td></tr>
   </table>
   </form>
+  <br><br>
+  <hr>
+  <a href="/showsProduct">查看网上商城</a>
   </body>
 </html>
